@@ -1,0 +1,20 @@
+/* Global Styling */
+body {
+     background-color:#fff;
+     color:blue;
+     font-family:Arial, Helvetica, sans-serif;
+     font-size:1.6rem;
+     line-height:1.6em;
+     margin:0;
+     padding:0;
+}
+
+.container {
+     width:70%;
+     margin:auto;
+     overflow:hidden;
+}
+
+img {
+     max-width:100%;
+}
